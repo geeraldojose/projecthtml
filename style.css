@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous');
+@import url('https://fonts.googleapis.com/css?family=Sigmar+One');
+@import url('https://fonts.googleapis.com/css?family=Bungee+Inline');
+@import url('https://fonts.googleapis.com/css?family=Lilita+One');
+
+
+body {
+
+	background-image: url(image/bricks.jpg);
+}
+
+.nama {
+	font-family: Righteous;
+
+}
+
+.latbel{
+	font-family: Sigmar One;
+
+}
+
+#lulus{
+
+	font-family: Bungee Inline;
+}
+
+
+#hobby {
+	font-family: Lilita One;
+
+
+}
+
