@@ -1,33 +1,47 @@
-@import url('https://fonts.googleapis.com/css?family=Righteous');
-@import url('https://fonts.googleapis.com/css?family=Sigmar+One');
-@import url('https://fonts.googleapis.com/css?family=Bungee+Inline');
-@import url('https://fonts.googleapis.com/css?family=Lilita+One');
-
-
-body {
-
-	background-image: url(image/bricks.jpg);
+.navbar{
+    background-color: #E02381;
+    opacity: 0.9;
+    
+}
+.text-center{
+    
+    background-color:whitesmoke;
+    padding-top: 50px;
+    margin-top: 50px;
 }
 
-.nama {
-	font-family: Righteous;
-
+#explore-head-section {
+    margin-top: 5%;
 }
 
-.latbel{
-	font-family: Sigmar One;
-
-}
-
-#lulus{
-
-	font-family: Bungee Inline;
+#footer{
+    
+    margin-top: 5%;
+    background-color: whitesmoke;
 }
 
 
-#hobby {
-	font-family: Lilita One;
-
-
+#explore-head-section{
+    
+    margin-top: 1%;
 }
 
+h5{
+    
+    font-family: sans-serif;
+    color: black;
+}
+.test1{
+    color: black;
+}
+.test2{
+    
+    
+    color: black;
+}
+
+
+.test3{
+    
+    color: black;
+}
